@@ -1,0 +1,5 @@
+streamlit
+pandas
+pydantic
+langchain-google-genai
+tavily-python
